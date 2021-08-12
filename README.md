@@ -2,7 +2,11 @@
 Java接口自动化
 
 第一行推送
-
+git clone ssh # 克隆项目到本地
+git add filename # 提交代码
+git commit -m "提交注释" # commit代码
+git push # 代码推送到远程
+git pull # 拉取远程代码到本地
 git branch # 查看本地分支
 git branch -a  # 查看远程服务器分支
 git checkout -b V0.1 # 新增本地分支
